@@ -1,0 +1,14 @@
+layout_spectrum: 0.24305867752991617
+typography_spectrum: 0.48320917994715273
+color:
+  brandStrength: 0.16419648774899542
+  lightness: 0.38075113482773304
+  saturation: 0.7387712041381747
+  rhythmicContrast: 0.11939369817264378
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Screwingme
